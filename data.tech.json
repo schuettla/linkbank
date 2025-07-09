@@ -1,0 +1,56 @@
+{
+  "profile_info": {
+    "title": "dev_null",
+    "subtitle": "Cybersecurity Researcher // Kernel Hacker",
+    "profile_image": "https://i.pravatar.cc/150?u=devnull"
+  },
+  "layout_config": {
+    "font": {
+      "family_name": "Fira Code",
+      "google_font_url": "https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap",
+      "size": "16px"
+    },
+    "colors": {
+      "background": "#0d1117",
+      "text": "#c9d1d9",
+      "accent": "#39d353",
+      "button": "#21262d",
+      "button_text": "#c9d1d9"
+    },
+    "button": {
+      "style": "filled",
+      "border_radius": "6px",
+      "border_width": "1px",
+      "shadow": "0 0 10px -5px rgba(57, 211, 83, 0.5)"
+    },
+    "hover_effects": {
+      "button_transform": "scale(1.02)",
+      "button_background": "#30363d"
+    }
+  },
+  "main_links": [
+    {
+      "label": "GitHub",
+      "url": "#",
+      "icon": ">>"
+    },
+    {
+      "label": "Root-Me Profile",
+      "url": "#",
+      "icon": ">>"
+    },
+    {
+      "label": "PGP Public Key",
+      "url": "#",
+      "icon": ">>"
+    },
+    {
+      "label": "Secure Drop",
+      "url": "#"
+    }
+  ],
+  "social_media_links": [
+    { "name": "github", "url": "#" },
+    { "name": "twitter", "url": "#" }
+  ]
+}

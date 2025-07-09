@@ -1,0 +1,54 @@
+{
+  "profile_info": {
+    "title": "Chloe Belle",
+    "subtitle": "Lifestyle Vlogger & Content Creator",
+    "profile_image": "https://i.pravatar.cc/150?u=chloebelle"
+  },
+  "layout_config": {
+    "font": {
+      "family_name": "Poppins",
+      "google_font_url": "https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap",
+      "size": "17px"
+    },
+    "colors": {
+      "background": "linear-gradient(135deg, #fbc2eb 0%, #a6c1ee 100%)",
+      "text": "#333333",
+      "accent": "#c73c88",
+      "button": "#ffffff",
+      "button_text": "#333333"
+    },
+    "button": {
+      "style": "filled",
+      "border_radius": "99px",
+      "border_width": "0px",
+      "shadow": "0 8px 20px rgba(0, 0, 0, 0.12)"
+    },
+    "hover_effects": {
+      "button_transform": "scale(1.05) translateY(-2px)",
+      "button_background": "#f5f5f5"
+    }
+  },
+  "main_links": [
+    {
+      "label": "Watch My Latest Vlog 🎬",
+      "url": "#"
+    },
+    {
+      "label": "Shop My Looks",
+      "url": "#",
+      "icon": "🛍️"
+    },
+    {
+      "label": "My Amazon Storefront",
+      "url": "#"
+    },
+    {
+      "label": "Brand Collaborations",
+      "url": "mailto:chloe@example.com"
+    }
+  ],
+  "social_media_links": [
+    { "name": "instagram", "url": "#" },
+    { "name": "twitter", "url": "#" }
+  ]
+}

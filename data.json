@@ -1,0 +1,62 @@
+{
+    "profile_info": {
+        "title": "Alex Doe",
+        "subtitle": "Full-Stack Developer | Open-Source Contributor | Tech Blogger",
+        "profile_image": "https://i.pravatar.cc/150"
+    },
+    "layout_config": {
+        "font": [],
+        "colors": {
+            "background": "#f9fafb",
+            "text": "#1f2937",
+            "accent": "#4f46e5",
+            "button": "#ffffff",
+            "button_text": "#1f2937"
+        },
+        "button": {
+            "style": "filled",
+            "border_radius": "12px"
+        },
+        "hover_effects": []
+    },
+    "main_links": [
+        {
+            "label": "My Portfolio",
+            "url": "https://example.com/portfolio",
+            "icon": "\ud83c\udf10"
+        },
+        {
+            "label": "Read My Blog",
+            "url": "https://example.com/blog",
+            "icon": "\u270d\ufe0f"
+        },
+        {
+            "label": "View My Projects on GitHub",
+            "url": "https://github.com/example",
+            "icon": ""
+        },
+        {
+            "label": "Contact Me",
+            "url": "mailto:alex.doe@example.com",
+            "icon": "\u2709\ufe0f"
+        }
+    ],
+    "social_media_links": [
+        {
+            "name": "email",
+            "url": "mailto:vance.e@example.com"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://linkedin.com/in/example"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/example"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/example"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "profile_info": {
+    "title": "Dr. Eleanor Vance",
+    "subtitle": "Strategic Management Consultant | Author | Keynote Speaker",
+    "profile_image": "https://i.pravatar.cc/150?u=eleanorvance"
+  },
+  "layout_config": {
+    "font": {
+      "family_name": "Lora",
+      "google_font_url": "https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap",
+      "size": "18px"
+    },
+    "colors": {
+      "background": "url('https://images.unsplash.com/photo-1554034483-04fda0d3507b?auto=format&fit=crop&w=1920&q=80') no-repeat center center / cover",
+      "text": "#ffffff",
+      "accent": "#4299e1",
+      "button": "rgba(13, 37, 63, 0.7)",
+      "button_text": "#ffffff"
+    },
+    "button": {
+      "style": "filled",
+      "border_radius": "8px",
+      "border_width": "0px",
+      "shadow": "0 4px 10px rgba(0, 0, 0, 0.25)"
+    },
+    "hover_effects": {
+      "button_transform": "translateY(-2px)",
+      "button_background": "rgba(13, 37, 63, 0.9)"
+    }
+  },
+  "main_links": [
+    {
+      "label": "Book a Consultation",
+      "url": "#",
+      "icon": "📅"
+    },
+    {
+      "label": "Read My Latest Whitepaper",
+      "url": "#",
+      "icon": "📄"
+    },
+    {
+      "label": "View My LinkedIn Profile",
+      "url": "#"
+    },
+    {
+      "label": "Corporate Inquiries",
+      "url": "mailto:vance.e@example.com"
+    }
+  ],
+  "social_media_links": [
+    { "name": "linkedin", "url": "#" },
+    { "name": "twitter", "url": "#" }
+  ]
+}

@@ -1,0 +1,14 @@
+# --- PROTECT THE EDITOR SCRIPT ---
+# This block targets only the edit.php file for password protection.
+<Files "edit.php">
+    AuthType Basic
+    AuthName "Admin Area"
+    AuthUserFile "/full/server/path/to/your/.htpasswd"
+    Require valid-user
+</Files>
+
+# --- PROTECT THE DATA FILES ---
+# This block prevents anyone from viewing .json files directly in their browser.
+<Files "*.json">
+    Require all denied
+</Files>
